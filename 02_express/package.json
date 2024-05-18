@@ -1,0 +1,19 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "description": "a simple express app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "express",
+    "products"
+  ],
+  "author": "vivek maniyar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
